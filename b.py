@@ -1,1 +1,2 @@
-git_test: py
+# "git_test: py"
+print("hello")
